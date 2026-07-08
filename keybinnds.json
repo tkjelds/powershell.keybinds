@@ -1,0 +1,94 @@
+"actions": [
+    {
+        "command": {
+            "action": "moveFocus",
+            "direction": "left"
+        },
+        "keys": "alt+h"
+    },
+    {
+        "command": {
+            "action": "moveFocus",
+            "direction": "down"
+        },
+        "keys": "alt+j"
+    },
+    {
+        "command": {
+            "action": "moveFocus",
+            "direction": "up"
+        },
+        "keys": "alt+k"
+    },
+    {
+        "command": {
+            "action": "moveFocus",
+            "direction": "right"
+        },
+        "keys": "alt+l"
+    },
+    {
+        "command": {
+            "action": "splitPane",
+            "split": "vertical",
+            "splitMode": "new"
+        },
+        "keys": "alt+i"
+    },
+    {
+        "command": {
+            "action": "splitPane",
+            "split": "horizontal",
+            "splitMode": "new"
+        },
+        "keys": "alt+o"
+    },
+    {
+        "command": {
+            "action": "closePane"
+        },
+        "keys": "ctrl+alt+d"
+    },
+    {
+        "command": {
+            "action": "newTab"
+        },
+        "keys": "alt+t"
+    },
+    {
+        "command": {
+            "action": "nextTab"
+        },
+        "keys": "alt+n"
+    },
+    {
+        "command": {
+            "action": "prevTab"
+        },
+        "keys": "alt+p"
+    },
+    {
+        "command": {
+            "action": "renameTab"
+        },
+        "keys": "alt+r"
+    },
+    {
+        "command": {
+            "action": "togglePaneZoom"
+        },
+        "keys": "alt+z"
+    },
+    {
+        "command": {
+            "action": "find"
+        },
+        "keys": "alt+f"
+    },
+    {
+        "command": {
+            "action": "closeTab"
+        },
+        "keys": "alt+w"
+    }
+]
