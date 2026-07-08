@@ -1,94 +1,73 @@
-"actions": [
-    {
-        "command": {
-            "action": "moveFocus",
-            "direction": "left"
+        {
+            "id": "Terminal.MoveFocusUp",
+            "keys": "alt+k"
         },
-        "keys": "alt+h"
-    },
-    {
-        "command": {
-            "action": "moveFocus",
-            "direction": "down"
+        {
+            "id": "Terminal.MoveFocusRight",
+            "keys": "alt+l"
         },
-        "keys": "alt+j"
-    },
-    {
-        "command": {
-            "action": "moveFocus",
-            "direction": "up"
+        {
+            "id": "Terminal.OpenNewTab",
+            "keys": "alt+t"
         },
-        "keys": "alt+k"
-    },
-    {
-        "command": {
-            "action": "moveFocus",
-            "direction": "right"
+        {
+            "id": "Terminal.MovePaneToTab0",
+            "keys": "ctrl+alt+n"
         },
-        "keys": "alt+l"
-    },
-    {
-        "command": {
-            "action": "splitPane",
-            "split": "vertical",
-            "splitMode": "new"
+        {
+            "id": "Terminal.MoveFocusLeft",
+            "keys": "alt+h"
         },
-        "keys": "alt+i"
-    },
-    {
-        "command": {
-            "action": "splitPane",
-            "split": "horizontal",
-            "splitMode": "new"
+        {
+            "id": "Terminal.MoveFocusDown",
+            "keys": "alt+j"
         },
-        "keys": "alt+o"
-    },
-    {
-        "command": {
-            "action": "closePane"
+        {
+            "id": "Terminal.SplitPaneDown",
+            "keys": "alt+o"
         },
-        "keys": "ctrl+alt+d"
-    },
-    {
-        "command": {
-            "action": "newTab"
+        {
+            "id": "Terminal.ClosePane",
+            "keys": "ctrl+alt+d"
         },
-        "keys": "alt+t"
-    },
-    {
-        "command": {
-            "action": "nextTab"
+        {
+            "id": "Terminal.SplitPaneRight",
+            "keys": "alt+i"
         },
-        "keys": "alt+n"
-    },
-    {
-        "command": {
-            "action": "prevTab"
+        {
+            "id": "Terminal.NextTab",
+            "keys": "alt+n"
         },
-        "keys": "alt+p"
-    },
-    {
-        "command": {
-            "action": "renameTab"
+        {
+            "id": "Terminal.PrevTab",
+            "keys": "alt+p"
         },
-        "keys": "alt+r"
-    },
-    {
-        "command": {
-            "action": "togglePaneZoom"
+        {
+            "id": "Terminal.RenameTab",
+            "keys": "alt+r"
         },
-        "keys": "alt+z"
-    },
-    {
-        "command": {
-            "action": "find"
+        {
+            "id": "Terminal.TogglePaneZoom",
+            "keys": "alt+z"
         },
-        "keys": "alt+f"
-    },
-    {
-        "command": {
-            "action": "closeTab"
+        {
+            "id": "User.closeTab.0",
+            "keys": "alt+w"
         },
-        "keys": "alt+w"
-    }
-]
+        {
+            "id": "Terminal.FindText",
+            "keys": "alt+f"
+        },
+        {
+            "id": "User.paste",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.FindText",
+            "keys": "ctrl+shift+f"
+        },
+        {
+            "id": "User.copy.644BA8F2",
+            "keys": "ctrl+c"
+        }
+    ],
